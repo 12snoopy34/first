@@ -1,4 +1,6 @@
 first
 =====
 
-my first github repository
+My first github repository
+
+Recording my oj.
